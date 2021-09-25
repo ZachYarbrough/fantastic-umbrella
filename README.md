@@ -16,7 +16,7 @@ npm i
 Be sure to create a .env file in the root directory and input:
 ```
 DB_NAME='ecommerce_db'
-DB_USER='username' //Your MySQL Username
+DB_USER='root' //Your MySQL Username
 DB_PW='password' //Your MySQL Password
 ```
 
